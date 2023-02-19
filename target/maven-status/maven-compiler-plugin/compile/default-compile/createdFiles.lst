@@ -1,0 +1,4 @@
+dev\mateas\classes\CsvParser.class
+dev\mateas\interfaces\Parser.class
+dev\mateas\interfaces\Mapper.class
+dev\mateas\classes\StringListToObjectMapper.class
